@@ -7,3 +7,7 @@ called from the commandline.
 
 I found the `mdx_extra_q` model is the only one that works with my setup but your versions may be different. So, you may
 want to try the `htdemucs` or `htdemucs_ft` models because they are newer. Though I have tried both and didn't notice a difference.
+
+## Requirements
+Torch with CUDA enabled  
+Demucs
